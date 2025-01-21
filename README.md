@@ -1,5 +1,5 @@
 # LSTM_Hydrologic_Model
-A LSTM (Long Short-Term Memory) Model is trained for rainfall-runoff forecast for ~480 catchments in Pacific Northwest and South Atlantic States.
+A LSTM (Long Short-Term Memory) Model is trained for rainfall-runoff forecast for ~370 catchments in Pacific Northwest and South Atlantic States.
 
 ## Dataset selected
 The dataset used in for this study is HYSETS (https://osf.io/rpc3w/), which encompasses comprehensive hydrological modeling data across 14425 catchments in North America, spanning
